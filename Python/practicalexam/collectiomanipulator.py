@@ -35,7 +35,7 @@ while True:
                 "name":name,
                 "age":age,
                 "grade":grade,
-                 "subject":subject
+                "subject":subject
             }
 
             students_details.append(students_data)
