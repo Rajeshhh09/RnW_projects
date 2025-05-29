@@ -1,4 +1,1 @@
- # temp.append(age)
-            # temp.append(grade)
-            # temp.append(dob)
-            # temp.append(subject)
+print("Output (If a Match is Found):")
