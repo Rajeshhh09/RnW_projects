@@ -1,1 +1,1 @@
-print("Output (If a Match is Found):")
+emp2.get_salary():
